@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @captainmoore
+- 👀 I’m interested in wow
+- 🌱 I’m currently learning electron
+- 💞️ I’m looking to collaborate on js
+- 📫 How to reach me leave msg
